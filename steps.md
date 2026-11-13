@@ -13,3 +13,10 @@ Download Git for Windows
     https://git-scm.com/install/windows
 
 During installation, the default options are fine for now.
+
+run 
+
+    git --version again
+
+you should see this: <img width="501" height="282" alt="image" src="https://github.com/user-attachments/assets/a75313ac-1291-43c4-869b-cffa4b26712f" />
+
