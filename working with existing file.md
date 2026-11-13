@@ -36,10 +36,34 @@
 
 # Step 4: Start working
 - You can now open the project in VS Code:
-code .
 
+      code .
+- Make your changes, save your files, then push them:
 
-Make your changes, save your files, then push them:
-git add .
-git commit -m "Updated project files"
-git push
+      git add .
+      git commit -m "Updated project files"
+      git push
+
+## Note: You don't need VS Code to work with GitHub from your CLI.
+
+You can use PowerShell, CMD, or Git Bash to manage your repositories, create files, edit code and push changes.
+
+You have two options:
+### Option 1: Work directly from your terminal
+You can:
+- Clone repositories.
+- Create files and folders.
+- Edit files using Notepad.
+- Run scripts.
+- Commit and push changes.
+For example, to open a file using Notepad:
+
+      notepad README.md
+
+### Option 2: Install VS Code (recommended)
+
+- Free code editor with an integrated terminal and Git support.
+
+Download: Official VS Code website : https://code.visualstudio.com/
+
+- You can use VS Code's integrated terminal to execute Git commands without switching applications.
