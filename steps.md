@@ -38,3 +38,12 @@ Verify your configuration:
 These settings identify you in your Git commit history. They don't authenticate you to GitHub.
 <img width="805" height="389" alt="Screenshot 2026-11-13 120214" src="https://github.com/user-attachments/assets/e07b5064-dfe3-4861-af33-333a6d6ccdb2" />
 
+
+# Step 3: Authenticate with GitHub
+I recommend using GitHub CLI (gh) because it makes authentication and repository management easier.
+
+    run : winget install --id GitHub.cli on cmd to install
+
+<img width="476" height="87" alt="image" src="https://github.com/user-attachments/assets/688b25f2-ccf2-4f60-a548-de77871487b8" />
+
+
