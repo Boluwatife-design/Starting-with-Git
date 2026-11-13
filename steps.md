@@ -46,4 +46,21 @@ I recommend using GitHub CLI (gh) because it makes authentication and repository
 
 <img width="476" height="87" alt="image" src="https://github.com/user-attachments/assets/688b25f2-ccf2-4f60-a548-de77871487b8" />
 
+- After installation, open a new terminal and run:
 
+        gh auth login
+
+Follow these options:
+- GitHub.com
+- HTTPS
+- Authenticate with a web browser
+- Copy the one-time code displayed.
+- Complete authentication in your browser.
+- Verify your login:
+<img width="1443" height="906" alt="Screenshot 2026-11-13 121409" src="https://github.com/user-attachments/assets/639432c8-2ffe-453f-80a3-858a626b613a" /><img width="1049" height="908" alt="Screenshot 2026-11-13 121525" src="https://github.com/user-attachments/assets/f8a808b4-454c-4e6e-a8a4-c3c2358cdb71" /> <img width="1017" height="341" alt="Screenshot 2026-11-13 121547" src="https://github.com/user-attachments/assets/83a09689-9b3e-456b-9262-af879d9ddea4" />
+
+
+
+        gh auth status
+
+- You should see that you're logged in.
