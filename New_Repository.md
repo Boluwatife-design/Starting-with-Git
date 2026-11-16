@@ -140,6 +140,7 @@ I recommend starting with Private while you're learning.
 - You can also make it public by replacing --private with --public.
 - This single command handles the repository creation and initial publishing. 
 - Take GitHub to the command line+1
+<img width="1274" height="589" alt="image" src="https://github.com/user-attachments/assets/2ea80ec4-475d-4787-b44b-11c5fd9aeb64" />
 
 # Step 7. Verify your repository
 - Check your remote connection:
